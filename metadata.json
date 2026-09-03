@@ -1,0 +1,6 @@
+{
+  "name": "EV Sanjeevan Portfolio",
+  "description": "EV Sanjeevan - Full-Stack Developer portfolio, real-time GitHub activity & contribution telemetry, and interactive case studies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
